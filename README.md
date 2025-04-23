@@ -1,12 +1,33 @@
-# React + Vite
+# 🎨 DaisyUI Theme Galerie
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Willkommen bei der **DaisyUI Theme Galerie** – ein modernes React-Projekt mit Tailwind CSS v4 und DaisyUI v5.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🌈 Über 30 vordefinierte DaisyUI-Themes
+- 👆 Klickbare Vorschaukacheln
+- 🖥 Vollbild-Vorschau jedes Themes
+- 🎛 Zentriertes Theme-Dropdown mit Animation
+- 💾 Theme-Auswahl wird im Browser gespeichert
+- 📱 Responsives Design für Mobilgeräte
+- ⚛️ React + Vite + Tailwind → schnell & modern
+- 🚫 Kein tailwind.config.js nötig
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🔍 Vorschau
+
+![Theme Galerie Vorschau](preview.png) <!-- Optional Screenshot -->
+
+👉 [Live-Demo (optional GitHub Pages Link)](https://thomaskoehninger.github.io/daisyui-theme-gallery)
+
+---
+
+## 🚀 Installation
+
+```bash
+git clone https://github.com/ThomasKoehninger/daisyui-theme-gallery.git
+cd daisyui-theme-gallery
+npm install
+npm run dev
+
