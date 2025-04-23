@@ -17,7 +17,7 @@ Willkommen bei der **DaisyUI Theme Galerie** – ein modernes React-Projekt mit 
 
 ## 🔍 Live-Demo
 
-👉 [Live-Demo auf GitHub Pages](https://thomaskoehninger.github.io/daisyui-theme-gallery) *(optional)*
+👉 **[Jetzt ausprobieren auf GitHub Pages](https://thomaskoehninger.github.io/daisyui-theme-gallery/)**
 
 ---
 
