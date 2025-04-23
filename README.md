@@ -11,15 +11,13 @@ Willkommen bei der **DaisyUI Theme Galerie** – ein modernes React-Projekt mit 
 - 💾 Theme-Auswahl wird im Browser gespeichert
 - 📱 Responsives Design für Mobilgeräte
 - ⚛️ React + Vite + Tailwind → schnell & modern
-- 🚫 Kein tailwind.config.js nötig
+- 🚫 Kein `tailwind.config.js` nötig
 
 ---
 
-## 🔍 Vorschau
+## 🔍 Live-Demo
 
-![Theme Galerie Vorschau](preview.png) <!-- Optional Screenshot -->
-
-👉 [Live-Demo (optional GitHub Pages Link)](https://thomaskoehninger.github.io/daisyui-theme-gallery)
+👉 [Live-Demo auf GitHub Pages](https://thomaskoehninger.github.io/daisyui-theme-gallery) *(optional)*
 
 ---
 
@@ -30,4 +28,3 @@ git clone https://github.com/ThomasKoehninger/daisyui-theme-gallery.git
 cd daisyui-theme-gallery
 npm install
 npm run dev
-
